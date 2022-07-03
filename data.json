@@ -1,0 +1,842 @@
+[
+    {
+        "asset_class": "Bond",
+        "counterparty": "Retail",
+        "instrument_id": "AAPL",
+        "instrument_name": "Guitar",
+        "trade_date_time": "2021-02-14T11:18:16.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 1054,
+            "quantity": 57
+        },
+        "trade_id": "62c19867e4431aef0a41d31c",
+        "trader": "Johns"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Retail",
+        "instrument_id": "AAPL",
+        "instrument_name": "Violin",
+        "trade_date_time": "2015-05-06T01:12:06.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 4812,
+            "quantity": 18
+        },
+        "trade_id": "62c19867d7dc1efd0f485882",
+        "trader": "Suzette"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Market Makers",
+        "instrument_id": "AAPL",
+        "instrument_name": "Piano",
+        "trade_date_time": "2014-12-24T01:50:41.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 6622,
+            "quantity": 31
+        },
+        "trade_id": "62c198675d13fb7c4a709953",
+        "trader": "Murphy"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Technical Traders",
+        "instrument_id": "TSLA",
+        "instrument_name": "Flute",
+        "trade_date_time": "2019-07-12T08:21:10.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 2906,
+            "quantity": 86
+        },
+        "trade_id": "62c198672a8e20e76109abbd",
+        "trader": "Lott"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Retail",
+        "instrument_id": "AMZN",
+        "instrument_name": "Violin",
+        "trade_date_time": "2021-10-09T11:38:05.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 2823,
+            "quantity": 73
+        },
+        "trade_id": "62c198678ebd98026a91d28e",
+        "trader": "Stephens"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Liquidity Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Trumpet",
+        "trade_date_time": "2017-09-11T12:33:50.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 3677,
+            "quantity": 69
+        },
+        "trade_id": "62c198671e89287b70100490",
+        "trader": "Flowers"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Liquidity Traders",
+        "instrument_id": "AAPL",
+        "instrument_name": "Piano",
+        "trade_date_time": "2014-10-02T07:17:57.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 2449,
+            "quantity": 77
+        },
+        "trade_id": "62c19867f36c58b016203dc7",
+        "trader": "Lee"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Retail",
+        "instrument_id": "AAPL",
+        "instrument_name": "Trumpet",
+        "trade_date_time": "2022-02-18T05:24:02.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 7757,
+            "quantity": 55
+        },
+        "trade_id": "62c198675832fe4be17bcda1",
+        "trader": "Melody"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Momentum Traders",
+        "instrument_id": "AAPL",
+        "instrument_name": "Drum",
+        "trade_date_time": "2017-01-17T06:28:50.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 1843,
+            "quantity": 20
+        },
+        "trade_id": "62c19867cd211d63f1fdcd0d",
+        "trader": "Jimmie"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Retail",
+        "instrument_id": "AMZN",
+        "instrument_name": "Guitar",
+        "trade_date_time": "2019-10-08T09:41:05.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 8146,
+            "quantity": 61
+        },
+        "trade_id": "62c19867c901b4598cfda01f",
+        "trader": "Leona"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Market Makers",
+        "instrument_id": "AAPL",
+        "instrument_name": "Guitar",
+        "trade_date_time": "2022-06-14T12:05:24.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 5922,
+            "quantity": 25
+        },
+        "trade_id": "62c19867c1b466c7ce357e15",
+        "trader": "Bush"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Momentum Traders",
+        "instrument_id": "AAPL",
+        "instrument_name": "Drum",
+        "trade_date_time": "2021-10-21T11:54:31.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 3154,
+            "quantity": 52
+        },
+        "trade_id": "62c198670327b6bc8e1a3c20",
+        "trader": "Irma"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Liquidity Traders",
+        "instrument_id": "TSLA",
+        "instrument_name": "Violin",
+        "trade_date_time": "2021-05-18T07:54:42.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 2959,
+            "quantity": 76
+        },
+        "trade_id": "62c198676f6292b81174c98e",
+        "trader": "Melton"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Momentum Traders",
+        "instrument_id": "AAPL",
+        "instrument_name": "Flute",
+        "trade_date_time": "2017-03-09T11:19:19.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 8841,
+            "quantity": 72
+        },
+        "trade_id": "62c19867730f7beeb3917ec3",
+        "trader": "Bianca"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Technical Traders",
+        "instrument_id": "TSLA",
+        "instrument_name": "Trumpet",
+        "trade_date_time": "2020-05-27T03:43:13.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 4316,
+            "quantity": 82
+        },
+        "trade_id": "62c198673ae5644507c865e1",
+        "trader": "Viola"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Market Makers",
+        "instrument_id": "AAPL",
+        "instrument_name": "Piano",
+        "trade_date_time": "2021-12-21T11:44:42.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 5498,
+            "quantity": 76
+        },
+        "trade_id": "62c198670de4ae1d6575ec03",
+        "trader": "Edna"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Retail",
+        "instrument_id": "AMZN",
+        "instrument_name": "Trumpet",
+        "trade_date_time": "2019-02-22T07:28:51.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 5987,
+            "quantity": 83
+        },
+        "trade_id": "62c198673f807e2298fc5a0c",
+        "trader": "Leah"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Technical Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Trumpet",
+        "trade_date_time": "2015-09-29T12:05:19.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 2424,
+            "quantity": 85
+        },
+        "trade_id": "62c1986794d8f819e8d6c75c",
+        "trader": "Mooney"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Momentum Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Drum",
+        "trade_date_time": "2021-01-21T04:46:30.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 7375,
+            "quantity": 47
+        },
+        "trade_id": "62c19867efdd63e911e31b48",
+        "trader": "Reese"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Momentum Traders",
+        "instrument_id": "AAPL",
+        "instrument_name": "Guitar",
+        "trade_date_time": "2020-09-27T08:50:29.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 4662,
+            "quantity": 93
+        },
+        "trade_id": "62c198675a6dfa58c01486d1",
+        "trader": "Roman"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Retail",
+        "instrument_id": "AMZN",
+        "instrument_name": "Flute",
+        "trade_date_time": "2015-09-02T03:06:56.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 9070,
+            "quantity": 64
+        },
+        "trade_id": "62c198671ff7d4e9d1a4b8fb",
+        "trader": "Byrd"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Retail",
+        "instrument_id": "AMZN",
+        "instrument_name": "Drum",
+        "trade_date_time": "2020-03-04T08:17:42.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 6907,
+            "quantity": 95
+        },
+        "trade_id": "62c19867d0c7d734b4f366b0",
+        "trader": "Jeannette"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Technical Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Piano",
+        "trade_date_time": "2016-02-08T10:49:14.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 2781,
+            "quantity": 85
+        },
+        "trade_id": "62c198673008f4f3bed4a617",
+        "trader": "Mckenzie"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Liquidity Traders",
+        "instrument_id": "AAPL",
+        "instrument_name": "Trumpet",
+        "trade_date_time": "2021-10-26T02:51:01.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 6877,
+            "quantity": 100
+        },
+        "trade_id": "62c19867a8b346b13daf9c4f",
+        "trader": "Cleo"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Momentum Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Flute",
+        "trade_date_time": "2015-09-10T05:20:02.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 8276,
+            "quantity": 35
+        },
+        "trade_id": "62c19867b8035b7966fc63e1",
+        "trader": "Lessie"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Retail",
+        "instrument_id": "TSLA",
+        "instrument_name": "Piano",
+        "trade_date_time": "2018-04-23T08:36:13.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 5038,
+            "quantity": 60
+        },
+        "trade_id": "62c1986708cdd20419152159",
+        "trader": "Christensen"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Market Makers",
+        "instrument_id": "AAPL",
+        "instrument_name": "Flute",
+        "trade_date_time": "2019-04-07T12:10:55.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 8834,
+            "quantity": 27
+        },
+        "trade_id": "62c19867bdfe7a52cf9f0c4a",
+        "trader": "Spears"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Technical Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Piano",
+        "trade_date_time": "2019-06-17T05:50:30.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 6807,
+            "quantity": 56
+        },
+        "trade_id": "62c198678257cb85fc27deaa",
+        "trader": "Lorna"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Retail",
+        "instrument_id": "AAPL",
+        "instrument_name": "Violin",
+        "trade_date_time": "2018-12-28T08:05:01.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 4927,
+            "quantity": 84
+        },
+        "trade_id": "62c19867ad0a6be2e0b5a7e5",
+        "trader": "Nita"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Retail",
+        "instrument_id": "AAPL",
+        "instrument_name": "Flute",
+        "trade_date_time": "2019-11-08T06:12:01.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 8404,
+            "quantity": 29
+        },
+        "trade_id": "62c19867a9cca7f39e60e9a5",
+        "trader": "Kaitlin"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Momentum Traders",
+        "instrument_id": "TSLA",
+        "instrument_name": "Flute",
+        "trade_date_time": "2016-06-22T08:52:46.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 3576,
+            "quantity": 27
+        },
+        "trade_id": "62c198679edc49076a77bbec",
+        "trader": "Juliet"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Liquidity Traders",
+        "instrument_id": "TSLA",
+        "instrument_name": "Trumpet",
+        "trade_date_time": "2014-09-03T07:07:53.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 9010,
+            "quantity": 73
+        },
+        "trade_id": "62c19867f40b05efd0b5fe95",
+        "trader": "Davenport"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Retail",
+        "instrument_id": "AMZN",
+        "instrument_name": "Guitar",
+        "trade_date_time": "2015-11-14T10:45:10.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 8535,
+            "quantity": 45
+        },
+        "trade_id": "62c19867665db7551989dbf7",
+        "trader": "Naomi"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Retail",
+        "instrument_id": "AAPL",
+        "instrument_name": "Drum",
+        "trade_date_time": "2019-08-20T03:35:07.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 3567,
+            "quantity": 20
+        },
+        "trade_id": "62c19867e8f2501dc2c89cd7",
+        "trader": "Spence"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Technical Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Trumpet",
+        "trade_date_time": "2018-10-08T07:02:11.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 2665,
+            "quantity": 78
+        },
+        "trade_id": "62c198674a7e4f890bb595dd",
+        "trader": "Kaufman"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Liquidity Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Violin",
+        "trade_date_time": "2014-07-01T01:43:46.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 1838,
+            "quantity": 44
+        },
+        "trade_id": "62c198672804391a6ef14d9a",
+        "trader": "Jacobs"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Momentum Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Flute",
+        "trade_date_time": "2022-01-26T03:29:49.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 7852,
+            "quantity": 23
+        },
+        "trade_id": "62c19867dcfd331bcb029872",
+        "trader": "Moran"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Market Makers",
+        "instrument_id": "AAPL",
+        "instrument_name": "Violin",
+        "trade_date_time": "2017-07-29T05:17:57.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 8937,
+            "quantity": 69
+        },
+        "trade_id": "62c19867775d795cfe49f56d",
+        "trader": "Myrna"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Technical Traders",
+        "instrument_id": "AAPL",
+        "instrument_name": "Piano",
+        "trade_date_time": "2020-10-19T10:10:33.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 3522,
+            "quantity": 10
+        },
+        "trade_id": "62c1986771084ba400bc1c94",
+        "trader": "Avery"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Retail",
+        "instrument_id": "AAPL",
+        "instrument_name": "Violin",
+        "trade_date_time": "2016-04-24T03:29:39.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 9503,
+            "quantity": 12
+        },
+        "trade_id": "62c19867ef172447e5ec406c",
+        "trader": "Rowe"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Market Makers",
+        "instrument_id": "AAPL",
+        "instrument_name": "Piano",
+        "trade_date_time": "2017-11-10T04:06:57.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 7328,
+            "quantity": 20
+        },
+        "trade_id": "62c19867146207d717d719b2",
+        "trader": "Gwendolyn"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Liquidity Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Drum",
+        "trade_date_time": "2015-05-12T08:47:42.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 8453,
+            "quantity": 28
+        },
+        "trade_id": "62c1986729a6d32c723a9f20",
+        "trader": "Berry"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Momentum Traders",
+        "instrument_id": "AAPL",
+        "instrument_name": "Guitar",
+        "trade_date_time": "2017-01-04T11:37:01.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 6208,
+            "quantity": 81
+        },
+        "trade_id": "62c19867463be330b0e69c56",
+        "trader": "Nicole"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Liquidity Traders",
+        "instrument_id": "TSLA",
+        "instrument_name": "Guitar",
+        "trade_date_time": "2014-09-25T04:24:04.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 4969,
+            "quantity": 84
+        },
+        "trade_id": "62c1986707539089db0e1348",
+        "trader": "Glenn"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Momentum Traders",
+        "instrument_id": "TSLA",
+        "instrument_name": "Flute",
+        "trade_date_time": "2018-05-28T10:41:44.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 6119,
+            "quantity": 43
+        },
+        "trade_id": "62c19867beebcd36da106bf8",
+        "trader": "Magdalena"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Liquidity Traders",
+        "instrument_id": "AAPL",
+        "instrument_name": "Guitar",
+        "trade_date_time": "2015-02-22T11:53:28.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 3201,
+            "quantity": 76
+        },
+        "trade_id": "62c1986759422008b08779d1",
+        "trader": "Cardenas"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Retail",
+        "instrument_id": "AMZN",
+        "instrument_name": "Piano",
+        "trade_date_time": "2015-10-18T12:01:00.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 9125,
+            "quantity": 17
+        },
+        "trade_id": "62c198676ff02ed6628dd068",
+        "trader": "Victoria"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Momentum Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Flute",
+        "trade_date_time": "2022-02-21T08:22:29.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 4798,
+            "quantity": 76
+        },
+        "trade_id": "62c19867bad946f066116e57",
+        "trader": "Mejia"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Liquidity Traders",
+        "instrument_id": "TSLA",
+        "instrument_name": "Violin",
+        "trade_date_time": "2019-09-08T04:46:57.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 6501,
+            "quantity": 62
+        },
+        "trade_id": "62c1986731cd60b29e91199c",
+        "trader": "Maryann"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Technical Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Violin",
+        "trade_date_time": "2014-05-18T02:41:51.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 7393,
+            "quantity": 27
+        },
+        "trade_id": "62c19867b81009fd3b8b58d0",
+        "trader": "Wilson"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Momentum Traders",
+        "instrument_id": "AAPL",
+        "instrument_name": "Violin",
+        "trade_date_time": "2021-04-04T04:32:25.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 4844,
+            "quantity": 14
+        },
+        "trade_id": "62c1986787b2aa4fdcfc0787",
+        "trader": "Williams"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Technical Traders",
+        "instrument_id": "AAPL",
+        "instrument_name": "Drum",
+        "trade_date_time": "2017-11-20T06:33:18.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 8134,
+            "quantity": 99
+        },
+        "trade_id": "62c198676be41efb7aeb54f0",
+        "trader": "Odom"
+    },
+    {
+        "asset_class": null,
+        "counterparty": "Liquidity Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Violin",
+        "trade_date_time": "2016-05-31T10:12:04.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 1195,
+            "quantity": 53
+        },
+        "trade_id": "62c1986749e45f4f737daab7",
+        "trader": "Myers"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Momentum Traders",
+        "instrument_id": "TSLA",
+        "instrument_name": "Piano",
+        "trade_date_time": "2022-03-12T09:14:02.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 5857,
+            "quantity": 29
+        },
+        "trade_id": "62c19867a49552f786525ff8",
+        "trader": "Harper"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Technical Traders",
+        "instrument_id": "TSLA",
+        "instrument_name": "Guitar",
+        "trade_date_time": "2021-07-29T03:39:23.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 2119,
+            "quantity": 34
+        },
+        "trade_id": "62c1986709e87dd35119c73f",
+        "trader": "Ferrell"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Momentum Traders",
+        "instrument_id": "TSLA",
+        "instrument_name": "Violin",
+        "trade_date_time": "2022-03-26T08:19:19.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 5879,
+            "quantity": 2
+        },
+        "trade_id": "62c198672cc5885a3a09c130",
+        "trader": "Park"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Momentum Traders",
+        "instrument_id": "TSLA",
+        "instrument_name": "Drum",
+        "trade_date_time": "2019-07-16T07:23:11.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 5897,
+            "quantity": 4
+        },
+        "trade_id": "62c19867a19e24772d8d6a60",
+        "trader": "Amelia"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Momentum Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Violin",
+        "trade_date_time": "2018-01-06T05:37:27.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 6633,
+            "quantity": 18
+        },
+        "trade_id": "62c19867a1bddbe6f898273e",
+        "trader": "Alfreda"
+    },
+    {
+        "asset_class": "Bond",
+        "counterparty": "Retail",
+        "instrument_id": "TSLA",
+        "instrument_name": "Drum",
+        "trade_date_time": "2020-09-21T07:09:31.102Z",
+        "trade_details": {
+            "buySellIndicator": "BUY",
+            "price": 9066,
+            "quantity": 50
+        },
+        "trade_id": "62c19867848c56f33b1aeef2",
+        "trader": "Walter"
+    },
+    {
+        "asset_class": "Equity",
+        "counterparty": "Technical Traders",
+        "instrument_id": "AMZN",
+        "instrument_name": "Trumpet",
+        "trade_date_time": "2018-08-09T11:20:54.102Z",
+        "trade_details": {
+            "buySellIndicator": "SELL",
+            "price": 7295,
+            "quantity": 46
+        },
+        "trade_id": "62c19867ca87a8ab4a80eadd",
+        "trader": "Watson"
+    }
+]
